@@ -1,0 +1,9 @@
+{
+    "get": "players/",
+    "parameters": [],
+    "errors": {
+        "required": "At least one parameter is required."
+    },
+    "results": 0,
+    "response": []
+}
