@@ -7,11 +7,12 @@
 1. **Missing Values**
 
    - Are there missing values in the points, assists, or rebounds columns?
-   - If a player’s height or weight is missing, will you impute it based on team averages?
+      - there are missing values in player dataset. wrote a function to remove all rows with empty player id.
 
 2. **Data Types**
 
    - Are the date columns in datetime format?
+      - Not really
    - Are numerical columns like points and rebounds stored as integers or floats?
 
 3. **Outliers and Anomalies**
