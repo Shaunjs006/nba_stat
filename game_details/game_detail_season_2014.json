@@ -1,0 +1,9 @@
+{
+    "get": "games/",
+    "parameters": {
+        "season": "2014"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+}

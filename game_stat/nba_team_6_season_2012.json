@@ -1,0 +1,10 @@
+{
+    "get": "players/statistics",
+    "parameters": {
+        "team": "6",
+        "season": "2012"
+    },
+    "errors": [],
+    "results": 0,
+    "response": []
+}
